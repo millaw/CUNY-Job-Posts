@@ -34,7 +34,7 @@ add_action( 'wp_enqueue_scripts', 'cunyc_job_posts_enqueue_assets' );
 // Shortcode function to display job posts
 function cunyc_job_posts_shortcode( $atts ) {
     // Set default college URL
-    $default_college_url = 'https://example.com/jobs/feed/json';
+    $default_college_url = 'https://cuny.jobs/laguardia-community-college/new-jobs/feed/json';
 
     // Parse attributes passed to the shortcode, with default for college URL
     $atts = shortcode_atts( array(
