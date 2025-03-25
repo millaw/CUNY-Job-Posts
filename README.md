@@ -83,7 +83,7 @@ cunyc-job-posts/
 
 ## License
 
-This plugin is licensed under the **MIT** license.
+This plugin is licensed under the **GPLv2** license.
 
 ## Credits
 
