@@ -10,7 +10,7 @@
  * @wordpress-plugin
  * Plugin Name:   CUNY Job Posts
  * Plugin URI:    https://github.com/millaw/cuny-job-posts
- * Description:   Job postings for CUNY colleges. Use the shortcode [cunyc_job_posts] to display current job openings from any CUNY college.
+ * Description:   Job postings for CUNY colleges. Use the shortcode [cunyc_job_posts college_url="https://example.com/jobs/feed/json"] to display current job openings from any CUNY college.
  * Version:       1.0.0
  * Author:        Milla Wynn
  * Author URI:    https://github.com/millaw
