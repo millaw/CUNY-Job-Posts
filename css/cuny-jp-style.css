@@ -1,0 +1,44 @@
+/* cunyc-jp-style.css */
+
+.job-card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  word-wrap: break-word;
+  background-color: #fff;
+  background-clip: border-box;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  border-radius: 0.25rem;
+  padding: 1.25rem;
+}
+
+a.lag-jp-accordion {
+  cursor: pointer;
+  margin: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+  font-weight: bold;
+  color: #787878;
+  text-transform: uppercase;
+}
+
+a.lag-jp-accordion:hover {
+  font-weight: bold;
+  color: red;
+}
+
+.lag-jp-panel {
+  padding: 18px 10px;
+  overflow: hidden;
+  display: none;
+  margin-bottom: 10px;
+}
+
+.lag-jp-panel.active {
+  display: block;
+  transition: max-height 0.3s ease-out;
+}
