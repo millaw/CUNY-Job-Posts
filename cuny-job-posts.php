@@ -4,7 +4,7 @@
  *
  * @package       CUNY Job Posts
  * @author        Milla Wynn
- * @license       MIT
+ * @license       GPLv2
  * @version       1.0.0
  *
  * @wordpress-plugin
@@ -14,7 +14,7 @@
  * Version:       1.0.0
  * Author:        Milla Wynn
  * Author URI:    https://github.com/millaw
- * License:       MIT
+ * License:       GPLv2
  */
 
 if ( ! defined( 'ABSPATH' ) ) {
